@@ -1,4 +1,4 @@
-# Application mobile android pour la gestion des taches
+# Application mobile android pour la gestion des tâches
 Il s'agit d'une application Android permettant de suivre les tâches quotidiennes. Cette application a été réalisée en groupe de trois personnes durant ma troisième année de licence. Nous avons trouvé le code source de l'application en ligne, et bien que la programmation initiale ait été faite par une autre personne, mon groupe et moi avons apporté des modifications à la logique de l'application, amélioré l'ergonomie des interfaces, conçu la base de données, et ajouté une nouvelle fonctionnalité : un mode sombre pour améliorer le confort visuel
 
 ### Contribution 
